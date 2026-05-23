@@ -4,7 +4,7 @@
 A comparative analysis dashboard built in Microsoft Power BI,
 visualizing content data from Amazon Prime Video and Netflix.
 
-(![Dashboard Preview](streamwars%20pic.png))
+![Dashboard Preview](streamwars%20pic.png)
 
 ## Key Insights
 - Amazon Prime has more total titles — 9,687 vs Netflix 8,809
